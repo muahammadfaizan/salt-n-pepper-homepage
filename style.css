@@ -31,8 +31,12 @@
 }
    /* margin class end  */
 
-
-
+ .letter-space{
+    letter-spacing: 0.5rem;
+ }  
+.letter-sp{
+    letter-spacing: 0.3rem;
+}
 
 
 /* .img-logo{
