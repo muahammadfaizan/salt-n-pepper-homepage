@@ -38,8 +38,15 @@
     letter-spacing: 0.3rem;
 }
 
+.logo-text{
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        font-family: 'Poppins', sans-serif;
+}
+
 
 .box{
-    width: 300px;
+    width: 260px;
     height: 300px;
 }
