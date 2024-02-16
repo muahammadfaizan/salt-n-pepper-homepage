@@ -7,6 +7,9 @@
 .main-logo{
     width: 200px;
 }
+.img-width{
+    width: 200px;
+}
 
 #icon{
     font-size: 2.5rem;
@@ -16,6 +19,22 @@
 #bg{
     background-color: #0f0f0f;  
 }
+
+   /* margin class start  */
+
+.mt-5b{
+    margin-top: 70px;
+}
+
+.p-5b{
+    padding: 50px;
+}
+   /* margin class end  */
+
+
+
+
+
 /* .img-logo{
     width: 125%;
 } */
